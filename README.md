@@ -20,10 +20,10 @@ This project aims to identify trends indicating a performance advantage on the S
 
 ### Datasets
 
-#### Provided Data
 
 * [`act_2019_ca.csv`](../data/act_2019_ca.csv): 2019 ACT Scores in California by School ([source](https://www.cde.ca.gov/ds/sp/ai/) | [data dictionary](https://www.cde.ca.gov/ds/sp/ai/reclayoutact19.asp))
 * [`sat_2019_ca.csv`](../data/sat_2019_ca.csv): 2019 SAT Scores in California by School ([source](https://www.cde.ca.gov/ds/sp/ai/) | [data dictionary](https://www.cde.ca.gov/ds/sp/ai/reclayoutsat19.asp))
+* [`equitable_county_rank.csv`](../data/equitable_county_rank.csv): 2019 California School District Equitablility Ranking ([source](https://wallethub.com/edu/e/most-least-equitable-school-districts-in-california/77056/))
 
 ### Data Dictionary
 
@@ -43,9 +43,7 @@ This project aims to identify trends indicating a performance advantage on the S
 |**expenditures_per_pupil**|*integer*|2018 Census|The amount a school district spends per pupil based on data from the U.S. Census: Annual Survey of School System Finances.This is used to score public school districts by comparison to the CA State average. A given score is based on 50 and, for each % above(below) the average expenditure per pupil across the sate, one point is subtracted(added).|
 |**income**|*integer*|2018 census|The average household income by school district. This is used to score public school districts by comparison to the CA State average. A given score is based on 50 and, for each % above(below) the state average income, one point is added(subtracted). | 
 
-#### Additional Data
 
-* [`equitable_county_rank.csv`](../data/equitable_county_rank.csv): 2019 California School District Equitablility Ranking ([source](https://wallethub.com/edu/e/most-least-equitable-school-districts-in-california/77056/))
 
 ---
 
