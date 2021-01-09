@@ -64,7 +64,9 @@ This project aims to identify trends indicating a performance advantage on the S
 
 ### Conclusions and Recommendations
 - [Conclusions and Recommendations](#Conclusions-and-Recommendations)
+1. In 2018-2019 the percentage of twelth graders scoring above threshold benchmark scores on college entrance exams was highest for test takers representing California public school districts with equity scores greater than 50.
 
+2. It is recommended that the standardized test scores of these individual high-scoring (and low ranking) school districts are monitored closely for additional information essential to providing equal opportunities. 
 ---
 
 ### Review notebook for clarity:
