@@ -1,8 +1,19 @@
 # Project 1: Impacts of an Equitable Education on College Entrance Exam Performance
-* Statistical analysis in Python of California’s Class of 2019 SAT/ACT Performance by School District, with data visualizations in Matplotlib and Seaborn.
+
+### Overview
+* Statistical analysis, in Python, of disparate school district equitability impacts on California’s Class of 2019 SAT/ACT Performance, with data visualizations in Matplotlib and Seaborn.
 
 ---
-### Overview
+
+
+### Contents:
+- [Background](#Background)
+- [Data Import & Cleaning](#Data-Import-and-Cleaning)
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+- [Data Visualization](#Visualize-the-Data)
+- [Conclusions and Recommendations](#Conclusions-and-Recommendations)
+
+### Background
 
 The SAT and ACT are standardized tests that many colleges and universities in the United States require for their admissions process. This score is used along with other materials such as grade point average (GPA) and essay responses to determine whether or not a potential student will be accepted to the university.
 
@@ -47,16 +58,16 @@ This project aims to identify trends indicating a performance advantage on the S
 
 ---
 
-### Deliverables
+### Actionable Insights & Recommendations
 
 ---
 
-### Submission
-
+### Conclusions and Recommendations
+- [Conclusions and Recommendations](#Conclusions-and-Recommendations)
 
 ---
 
-### Actionable Insights & Next Steps
+### Review notebook for clarity:
 
 **Clarity of Message**
 - Problem statement is clearly presented
