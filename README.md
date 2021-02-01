@@ -23,6 +23,10 @@ The SAT has two sections of the test: Evidence-Based Reading and Writing and Mat
 
 Standardized tests have long been a controversial topic for students, administrators, and legislators. Since the 1940's, an increasing number of colleges have been using scores from sudents' performances on tests like the SAT and the ACT as a measure for college readiness and aptitude ([*source*](https://www.minotdailynews.com/news/local-news/2017/04/a-brief-history-of-the-sat-and-act/)). Supporters of these tests argue that these scores can be used as an objective measure to determine college admittance. Opponents of these tests claim that these tests are not accurate measures of students potential or ability and serve as an inequitable barrier to entry.
 
+Terminology of School District Names([*source*](https://en.wikipedia.org/wiki/School_district)):
+* Unified School District: Includes both elementary and secondary eductional levels.
+* Union: A distinction of formation from more than one district.
+
 ### Problem Statement
 
 This project aims to identify trends indicating a performance advantage on the SATs & ACTs related to the so-called “equitable ranking” of public school districts throughout the state of California, primarily for the consideration of resource allocation by state legislation.
